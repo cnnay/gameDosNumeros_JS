@@ -2,7 +2,7 @@
 alert("O jogo começou!")
 
 let j1 = prompt("Bem vindo Jogador1 digite seu nome: ")
-let t1 = parseInt(prompt('digite um valor'))
+let t1 = parseInt(prompt("Digite um número: "))
 
 let nomej1 = document.getElementById("j1")
 nomej1.innerHTML = j1
@@ -13,7 +13,7 @@ num1.innerHTML = t1
 alert("Carregando...")
 
 let j2 = prompt("Bem vindo Jogador2 digite seu nome: ")
-let t2 = parseInt(prompt('digite outro valor'))
+let t2 = parseInt(prompt("Digite um número: "))
 
 let nomej2 = document.getElementById("j2")
 nomej2.innerHTML = j2
