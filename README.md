@@ -6,5 +6,3 @@
 
 
 <a href="https://cnnay.github.io/gameDosNumeros_JS/"  target="_blank">Venha jogar!!</a>
-
-<a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a>
